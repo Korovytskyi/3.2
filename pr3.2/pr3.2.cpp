@@ -1,8 +1,8 @@
 ﻿// pr3.2.cpp : This file contains the 'main' function. Program execution begins and ends there.
-// < прізвище, ім’я автора >
+// < Коровицький Тарас >
 // Лабораторна робота № 3.2
 // Розгалуження, задане формулою: функція з параметрами.
-// Варіант 0.1
+// Варіант 13
 #include <iostream>
 using namespace std;
 int main()
